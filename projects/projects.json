@@ -2,6 +2,26 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Bitlanders", 
+    "thumb": "bitlanders/thumb.png",
+    "desc": "bitLanders is the next gen social network where you can earn discounted gift cards.",
+    "url": "http://www.bitlanders.com/",
+    "info": "http://www.bitlanders.com/pages/about",
+    "submitter": "bitlanders",
+    "submissionDate": "2014-09-30",
+    "tags": [
+      "Production",
+      "Game", 
+      "CRUD", 
+      "Entertainment", 
+      "Productivity",
+      "Animations", 
+      "Local Storage", 
+      "AppCache",
+      "jQuery"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
@@ -3581,6 +3601,5 @@
         "Bootstrap"
       ]
     }
-
   ]
 }
